@@ -1,0 +1,246 @@
+Type,Title,Buyer,Supplier,Value,DATE
+award,Non-Obstetric Ultrasound Services (NOUS) for Sandwell & West Birmingham CCG,NHS Arden & Greater East Midlands CSU,[None],£6.9M,Mon 21 Sep 2020
+award,Covid-19 Dashboard Development Phase 1,Health Family,Mckinsey,£1.4M,Mon 21 Sep 2020
+award,And REACT 2.Research,Health Family,Imperial College London,£1.7M,Mon 21 Sep 2020
+award,ESFA - Aggregated User Centred Design,Department for Education,Methods Business & Digital Technology,£8M,Mon 21 Sep 2020
+award,Consultancy for Trade Credit Insurance Implementation Partner (TCI,Department for Business Energy & Industrial Strategy Department for Business Energy & Industrial Strategy,Pricewaterhousecoopers,£1.8M,Mon 21 Sep 2020
+award,Digital Staff Passport Solution for NHS Providers to Rapidly Deploy Staff in Response to COVID-19,NHS England,Blackpool Teaching Hospitals NHS Trust,£1.6M,Mon 21 Sep 2020
+award,De Ferrers Trust ~ Cleaning Services,de Ferrers Trust,Accuro FM,£4.2M,Mon 21 Sep 2020
+award,Sharnbrook Academy Federation ~ Cleaning Services,Sharnbrook Academy Federation,Apleona HSG,£1.8M,Mon 21 Sep 2020
+award,City of Stoke-On-Trent Sixth Form College ~ Catering Services,City of Stoke on Trent Sixth Form College,Mellors Catering Services,£1.2M,Mon 21 Sep 2020
+award,Framework for Vehicle Bodies,East Riding of Yorkshire,14 suppliers,£3.3M,Mon 21 Sep 2020
+award,Motor Vehicle Body Work Repairs,Greater Manchester Police,6 suppliers,£2M,Mon 21 Sep 2020
+award,Area 2 Upper Chorlton Road,Manchester City Council,Galliford Try Infrastructure,£1.9M,Mon 21 Sep 2020
+award,TPPL West Suffolk Council NEPO HGV Lot 1 - 4 X 26t RCVs With Faun Variopress…,West Suffolk Council,Motus Commercials,£1.4M,Mon 21 Sep 2020
+award,Tree Maintenance Services for the London Borough of Hillingdon,London Borough of Hillingdon,Red Squirrel Tree Surgery,£1.2M,Mon 21 Sep 2020
+award,TPPL Redcar & Cleveland Borough Council NEPO HGV Lot 2 - 5 X 26t RCVs,Redcar & Cleveland Borough Council,Farid Hillend Engineering,£1.1M,Mon 21 Sep 2020
+award,Torbay COVID-19 AD Facility,Torbay Council,Aardvark Haulplant,£1.4M,Mon 21 Sep 2020
+award,Senoko OFD Security Upgrade Project,MOD,Infinite Security Solutions,£1M,Mon 21 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Love Cosmetics,£16M,Tue 22 Sep 2020
+award,"Round 1 Lab Testing Swabs, Viles, Biohazard Bags and PCL Analysis",Health Family,Eurofins Bionmis,£8.8M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Arco,£3.3M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Private White VC,£2.4M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Private White VC,£2.4M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Don & Low,£7.1M,Tue 22 Sep 2020
+award,C2A2 Sight Spares and Associated Items,Babcock Land Defence,Hall & Watts Defence Optics,£2M,Tue 22 Sep 2020
+award,Operation and Maintenance of District Heating at Calside Paisley,Renfrewshire Council,Highland Wood Energy,£1.7M,Tue 22 Sep 2020
+award,Post 16 SEN Provision,Leeds City Council,21 suppliers,£42.1M,Tue 22 Sep 2020
+award,Covid-19 National Testing Programme,Health Family,Oxford University,£7.7M,Tue 22 Sep 2020
+award,Vivaldi 1 & 2 Care Home,Health Family,University College London,£1.9M,Tue 22 Sep 2020
+award,Microsoft License Solution Partner,DEFRA Network Etendering Portal,Phoenix Software,£46.5M,Tue 22 Sep 2020
+award,Digital Interim Service and Engineering Delivery Partner - Support and Maintain Current Services,Restoration & Renewal Delivery Authority,Airwalk Consulting,£2.6M,Tue 22 Sep 2020
+award,HS2 Ltd Health Exposure Monitoring System (HEMS),HS2,Bramble Hub,£2.6M,Tue 22 Sep 2020
+award,University College Birmingham — Cleaning Services,Birmingham University,Fidelis Group,£21.6M,Tue 22 Sep 2020
+award,Celtic Cross Education — Cleaning Services,Celtic Cross Education,Churchill Contract Services,£1M,Tue 22 Sep 2020
+award,"Installation & Replacement of Superimposed Road Markings & Road Studs, Leicester",Leicester City Council,2 suppliers,£3M,Tue 22 Sep 2020
+award,CPCA - The New University of Peterborough - Phase 1 Build,Cambridgeshire District Councils,Bowmer & Kirkland,£20M,Tue 22 Sep 2020
+award,Flat Roof Replacement Programme (2020,Southampton City Council,6 suppliers,£14M,Tue 22 Sep 2020
+award,Statutory Private Sector Housing Repairs Framework,Glasgow City Council,Cairn Building Solutions,£10M,Tue 22 Sep 2020
+award,Pitched Roof Replacement Programme (2020,Southampton City Council,5 suppliers,£9M,Tue 22 Sep 2020
+award,Windows Doors and Glazing Repairs,High Peak Borough Council,3 suppliers,£4.9M,Tue 22 Sep 2020
+award,"Land, Design and Build for Social Housing Development/S in Armagh, Banbridge, Craigavon",South Ulster Housing Association,Charles Lavery,£2.8M,Tue 22 Sep 2020
+award,WHHT - Theatre Reconfiguration Works,Hertfordshire NHS Procurement,VINCI Facilities,£2.5M,Tue 22 Sep 2020
+award,Anlaby Road (City Boundary to Walton Street) Resurfacing Works,Hull City Council,PBS Construction NE,£2.5M,Tue 22 Sep 2020
+award,Solihull Brooks Improvements (ERDF),Coventry Solihull Warwickshire,Ebsford Environmental,£2.1M,Tue 22 Sep 2020
+award,ENHT - Tower Block Fire Damper System,Hertfordshire NHS Procurement,Forest Gate Construction,£1.5M,Tue 22 Sep 2020
+award,TPPL Durham County Council NEPO HGV Lot 1 - 14 X RCVs,Durham County Council,Bell Truck & Van,£2.1M,Tue 22 Sep 2020
+award,Insurance Broking Services) for Hampshire Constabulary,Hampshire County Council,Maven Public Sector,£3.4M,Tue 22 Sep 2020
+award,Cafcass Agency Social Work Staff Requirement,Cafcass,4 suppliers,£2.5M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Red E Med,£7.6M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,P1F,£7.6M,Tue 22 Sep 2020
+award,Hampshire Constabulary Uniform Managed Service (NUMS) Lite,Hampshire County Council,DHL Supply Chain,£1.7M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Lincoln Polythene,£46.7M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Don & Low,£41M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Eumar Technology,£20M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Vitalcare Trading,£14.4M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Arco,£9.3M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,P1F,£7.3M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,P1F,£4M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,P1F,£2.6M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Maxima Markets,£1.9M,Tue 22 Sep 2020
+award,Personal Protective Equipment for Healthcare Workers for the Care of Patients With Suspected or Confirmed Novel…,Department of Health & Social Care,Imperial Polythene Products,£1.3M,Tue 22 Sep 2020
+award,Residential and Nursing Transitional 2019-2020 S,Walsall Metropolitan Borough Council,St Josephs Convent Nursing Home,£28.5M,Wed 23 Sep 2020
+award,"Advanced Energy, Laparoscopic Devices, Surgical Stapling & Associated Accessories",Coventry & Warwickshire NHS Trust UHCW University Hospitals,12 suppliers,£15M,Wed 23 Sep 2020
+award,"Pacemakers, ICDs, CRTs, Loop Recorders, Leads and Accessories",Coventry & Warwickshire NHS Trust UHCW University Hospitals,Biotronik,£7M,Wed 23 Sep 2020
+award,Mental Health High Suported Living - Central and Maygrove,London Borough of Camden,One Housing Group,£5.1M,Wed 23 Sep 2020
+award,Suxamethonium Invoice - Neuraxapharm Letter of Intent (LOI),NHS England,Neuraxpharm,£4.3M,Wed 23 Sep 2020
+award,Voluntary Services Support to COVID-19,NHS England,British Red Cross,£1.7M,Wed 23 Sep 2020
+award,Housing Related Support: Adults With Disabilities,Essex County Council,4 suppliers,£1.7M,Wed 23 Sep 2020
+award,Voluntary Services Support to COVID-19,NHS England,Age,£1.5M,Wed 23 Sep 2020
+award,"CCTV System Upgrade, Operation and Maintenance",Royal Borough of Greenwich,Eurovia Infrastructure,£2.7M,Wed 23 Sep 2020
+award,London Electrical Testing & Upgrade,Optivo,Niblock Builders,£2.1M,Wed 23 Sep 2020
+award,National Student Survey,Office for Students,2 suppliers,£5.6M,Wed 23 Sep 2020
+award,Modern Foreign Language (MFL) Teaching,Glasgow Caledonian University,City of Glasgow College,£1.7M,Wed 23 Sep 2020
+award,ESFA Data Science Services - Oracle Policy Automation (OPA),Department for Education,Magia CX,£1.5M,Wed 23 Sep 2020
+award,Covid 19 Clinical Cell - POD Workstream,NHS England,Valtech,£15.7M,Wed 23 Sep 2020
+award,Operational Dashboard,NHS England,Mastek,£11M,Wed 23 Sep 2020
+award,Data Dir Data Service Delivery Capability,Department for Education,Hippo Digital,£4.5M,Wed 23 Sep 2020
+award,Maintenance of the Dounreay Data Management System,Dounreay Site Restoration,Datacapture,£1.4M,Wed 23 Sep 2020
+award,Racking System in Additional PPE Warehouses,Business Services Organisation Procurement & Logistics Service,Racking & Shelving,£3M,Wed 23 Sep 2020
+award,Dunraven Educational Trust — Cleaning Services,Dunraven Educational Trust,Ridge Crest Cleaning Services,£1.4M,Wed 23 Sep 2020
+award,Voluntary Services Support to COVID-19 (Additional Sites),NHS England,British Red Cross,£1.7M,Wed 23 Sep 2020
+award,Voluntary Services Support to COVID-19 (Additional Sites),NHS England,Age,£1.5M,Wed 23 Sep 2020
+award,Bathrooms and Associated Works (Maintenance and Build),Midland Heart,Woodland Property Services,£24M,Wed 23 Sep 2020
+award,London and Quadrant Housing Trust — Lintel Manufacturer Framework 2020,London & Quadrant Housing Trust,Birtley Group,£4M,Wed 23 Sep 2020
+award,993-20 Rock Salt,East Riding of Yorkshire Council,Icl UK Sales,£5.5M,Wed 23 Sep 2020
+award,"Asbestos, Legionella & Mould 20 Lot 1.4 - Redditch Borough Council",Northern Housing Consortium,Tersus Consultancy,£2M,Wed 23 Sep 2020
+award,Extension to Global Logistics Agreement,Fcdo Services,Hellmann Worldwide Logistics,£9M,Wed 23 Sep 2020
+award,Professional Services to JBC,Department of Health & Social Care,Ernst & Young,£1.8M,Wed 23 Sep 2020
+award,NHS Test & Trace Programme Management,Health Family,Bramble Hub,£1.5M,Wed 23 Sep 2020
+award,"Enteral Feeds, Associated Equipment and a Home Delivery Service",NHS Gloucestershire CCG,Nutricia,£7M,Wed 23 Sep 2020
+award,Cold Beverages [1552425],Procurement & Logistics Service,2 suppliers,£2.1M,Wed 23 Sep 2020
+award,Non-Obstetric Ultrasound Services (NOUS) for Sandwell & West Birmingham CCG,NHS Arden & Greater East Midlands CSU,[None],£6.9M,Thu 24 Sep 2020
+award,Covid-19 Dashboard Development Phase 1,Health Family,Mckinsey,£1.4M,Thu 24 Sep 2020
+award,And REACT 2.Research,Health Family,Imperial College London,£1.7M,Thu 24 Sep 2020
+award,ESFA - Aggregated User Centred Design,Department for Education,Methods Business & Digital Technology,£8M,Thu 24 Sep 2020
+award,Consultancy for Trade Credit Insurance Implementation Partner (TCI,Department for Business Energy & Industrial Strategy Department for Business Energy & Industrial Strategy,Pricewaterhousecoopers,£1.8M,Thu 24 Sep 2020
+award,Digital Staff Passport Solution for NHS Providers to Rapidly Deploy Staff in Response to COVID-19,NHS England,Blackpool Teaching Hospitals NHS Trust,£1.6M,Thu 24 Sep 2020
+award,De Ferrers Trust ~ Cleaning Services,de Ferrers Trust,Accuro FM,£4.2M,Thu 24 Sep 2020
+award,Sharnbrook Academy Federation ~ Cleaning Services,Sharnbrook Academy Federation,Apleona HSG,£1.8M,Thu 24 Sep 2020
+award,City of Stoke-On-Trent Sixth Form College ~ Catering Services,City of Stoke on Trent Sixth Form College,Mellors Catering Services,£1.2M,Thu 24 Sep 2020
+award,Framework for Vehicle Bodies,East Riding of Yorkshire,14 suppliers,£3.3M,Thu 24 Sep 2020
+award,Motor Vehicle Body Work Repairs,Greater Manchester Police,6 suppliers,£2M,Thu 24 Sep 2020
+award,Area 2 Upper Chorlton Road,Manchester City Council,Galliford Try Infrastructure,£1.9M,Thu 24 Sep 2020
+award,TPPL West Suffolk Council NEPO HGV Lot 1 - 4 X 26t RCVs With Faun Variopress…,West Suffolk Council,Motus Commercials,£1.4M,Thu 24 Sep 2020
+award,Tree Maintenance Services for the London Borough of Hillingdon,London Borough of Hillingdon,Red Squirrel Tree Surgery,£1.2M,Thu 24 Sep 2020
+award,TPPL Redcar & Cleveland Borough Council NEPO HGV Lot 2 - 5 X 26t RCVs,Redcar & Cleveland Borough Council,Farid Hillend Engineering,£1.1M,Thu 24 Sep 2020
+award,Torbay COVID-19 AD Facility,Torbay Council,Aardvark Haulplant,£1.4M,Thu 24 Sep 2020
+award,Senoko OFD Security Upgrade Project,MOD,Infinite Security Solutions,£1M,Thu 24 Sep 2020
+award,"Advanced Energy, Laparoscopic Devices, Surgical Stapling and Associated Accessories",Coventry & Warwickshire NHS Trust UHCW University Hospitals,Applied Medical,£15M,Thu 24 Sep 2020
+award,"Pulp, Medical Products",NHS Wales Shared Services Partnership Procurement Services,2 suppliers,£4.6M,Thu 24 Sep 2020
+award,Halton Domestic Abuse Service,Halton Borough Council,Whag,£2.1M,Thu 24 Sep 2020
+award,Voluntary Services Support to Covid-19,NHS England,British Red Cross,£1.7M,Thu 24 Sep 2020
+award,Voluntary Services Support to Covid-19,NHS England,Age,£1.5M,Thu 24 Sep 2020
+award,Speciality Needles and Syringes,NHS Wales Shared Services Partnership,5 suppliers,£1.1M,Thu 24 Sep 2020
+award,Fire Safety Systems Servicing and Maintenance,Optivo,Fire Systems,£10M,Thu 24 Sep 2020
+award,London (North) Gas Servicing and Boiler Installation,Optivo,K & T Heating Services,£7.5M,Thu 24 Sep 2020
+award,London (South) Gas Servicing and Boiler Installation,Optivo,Swale Heating,£7.5M,Thu 24 Sep 2020
+award,In-Service Support for the Ground Based Air Defence Battlefield Information System Application (GBAD BISA),Defence Equipment & Support,BAE Systems Operations,£2.7M,Thu 24 Sep 2020
+award,"CCTV System Upgrade, Operation and Maintenance",Royal Borough of Greenwich,Eurovia Infrastructure,£2.7M,Thu 24 Sep 2020
+award,EPAC Laser Diode Pump System for 150 J Amplifier,UK Research & Innovation,Coherent Europe,£1.4M,Thu 24 Sep 2020
+award,Cold Storage Framework,University College London,Fisher Scientific,£1M,Thu 24 Sep 2020
+award,"Information, Advice and Support for CYP and Parents (IAS)",Department for Education,National Childrens Bureau,£6.5M,Thu 24 Sep 2020
+award,Cross Rail Joint Sponsor Project Rep,Department for Transport,Jacobs,£6M,Thu 24 Sep 2020
+award,Delivery Support (SEND: Targeted),Department for Education,Mott Macdonald,£2.4M,Thu 24 Sep 2020
+award,Whole School SEND Notice,Department for Education,Nasen,£1.8M,Thu 24 Sep 2020
+award,Children and Young People Strategic Participation,Department for Education,Contact,£1.6M,Thu 24 Sep 2020
+award,Flexible Hosting Environment for Digital Products,Government Digital Service,Amazon Web Services Emea Sarl UK Branch,£6.6M,Thu 24 Sep 2020
+award,Design Solution for Enterprise Class Wired and Wireless Infrastru,Government Property Agency Cabinet Office,Stone Computers,£1.9M,Thu 24 Sep 2020
+award,DevOps Platform Support to the Development,MOD,Accenture,£1.2M,Thu 24 Sep 2020
+award,DfE BT Wi-Fi Vouchers,Department for Education,British Telecommunications,£1M,Thu 24 Sep 2020
+award,"Sub-Lot 1C Facilities Management Services, Magnox Ltd",Crown Commercial Service,MITIE,£106M,Thu 24 Sep 2020
+award,Hertfordshire County Council and TPPL Vehicle Hire Framework,Hertfordshire County Council,4 suppliers,£250M,Thu 24 Sep 2020
+award,Office Moves,Network Rail Infrastructure,Harrow Green,£3.7M,Thu 24 Sep 2020
+award,Area 4 Asset Delivery Maintenance and Response (M&R,Highways England,Kier Highways,£159M,Thu 24 Sep 2020
+award,Claims Handling and Litigation Services,Network Rail Infrastructure,Beachcroft,£6M,Thu 24 Sep 2020
+award,Food and Drink Products to Greenshaw and Folio Trusts,Pelican Procurement Services,7 suppliers,£1.1M,Thu 24 Sep 2020
+award,Contrast Media Including CT Injectors and Associated Products,NHS Shared Business Services,Bayer,£1.4B,Fri 25 Sep 2020
+award,"Enteral Feeding, Bile Bags and Associated Products",NHS Supply Chain Operated by DHL Supply Chain,2 suppliers,£69.6M,Fri 25 Sep 2020
+award,Quality Funded Early Learning and Childcare (1140 Hours),Dundee City Council Contracts Team,Bumbly Bees,£25M,Fri 25 Sep 2020
+award,Housing Related Support and Youth Housing Supported Accommodation,Lincolnshire County Council,2 suppliers,£20M,Fri 25 Sep 2020
+award,One Off Supply of Gloves,NHS Wales Shared Services Partnership,Pharmapac,£16.2M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Hedy Medical Device Co. Ltd,Department of Health & Social Care,Hedy Medical Device,£6.1M,Fri 25 Sep 2020
+award,"Housing Support, Safebase, Supported Lodgings and Support for Care Leavers With Complex Needs for Young People…",Worcestershire County Council,6 suppliers,£5.8M,Fri 25 Sep 2020
+award,Medical Equipment,Department of Health & Social Care,Hedy Medical Device,£5M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Hunan Beyond Medical Technology Ltd (1),Department of Health & Social Care,Hunan Beyond Medical Technology,£4M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Changsha Jinghe Medical Devices Co. Ltd (1),Department of Health & Social Care,Changsha Jinghe Medical Devices,£3.9M,Fri 25 Sep 2020
+award,Medical Equipment,Department of Health & Social Care,Hunan Beyond Medical Technology,£3.3M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Beijing KellyMed Co. Ltd,Department of Health & Social Care,Beijing Kellymed,£3.2M,Fri 25 Sep 2020
+award,Medical Equipment,Department of Health & Social Care,Changsha Jinghe Medical Devices,£3.2M,Fri 25 Sep 2020
+award,Azithromycin,Department of Health & Social Care,3 suppliers,£3.1M,Fri 25 Sep 2020
+award,Medical Equipment,Department of Health & Social Care,Beijing Kellymed,£2.6M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Sino Medical-Device Technology Co. Ltd (2),Department of Health & Social Care,Sino Medical Device Technology,£2.4M,Fri 25 Sep 2020
+award,Halton Domestic Abuse Service,Halton Borough Council,Whag,£2.1M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Hunan Beyond Medical Technology Ltd (3),Department of Health & Social Care,Hunan Beyond Medical Technology,£2.1M,Fri 25 Sep 2020
+award,Medical Equipment,Department of Health & Social Care,Sino Medical Device Technology,£1.9M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Vincent Healthcare Products Ltd,Department of Health & Social Care,Vincent Healthcare Products,£1.9M,Fri 25 Sep 2020
+award,Cambridgeshire County Council Improved Better Care Fund Block Cars,Cambridgeshire County Council,2 suppliers,£1.9M,Fri 25 Sep 2020
+award,Medical Consumables,Department of Health & Social Care,Hunan Beyond Medical Technology,£1.7M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Clinical Items — Ningbo Shengyurui Medical Appliances Co. Ltd (1),Department of Health & Social Care,Ningbo Shengyurui Medical Appliances,£1.6M,Fri 25 Sep 2020
+award,Medical Consumables,Department of Health & Social Care,Vincent Healthcare Products,£1.6M,Fri 25 Sep 2020
+award,Medical Consumables,Department of Health & Social Care,Ningbo Shengyurui Medical Appliances,£1.3M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Excalibur Healthcare Services,£136M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing - Excalibur Healthcare Services,Department of Health & Social Care,Excalibur Healthcare Services,£136M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,University College London,£20M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — University College London,Department of Health & Social Care,University College London,£20M,Fri 25 Sep 2020
+award,Supply & Delivery of F-35,MOD,Kuwait Petroleum International Aviation,£10.2M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Nanjing Chenwei Medical Equipment Co. Ltd,Department of Health & Social Care,Nanjing Chenwei Medical Equipment,£6.6M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Nanjing Chenwei Medical Equipment,£5.3M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Ninhao International Import & Export,£4.9M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing - Beijing Aeonmed Co Ltd (4),Department of Health & Social Care,Beijing Aeonmed,£4.4M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Beijing Aeonmed Co Ltd (1),Department of Health & Social Care,Beijing Aeonmed,£4M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Aeonmed,£3.8M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Beijing Aeonmed Co. Ltd (2),Department of Health & Social Care,Beijing Aeonmed,£3.6M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Northern Meditec Ltd (1),Department of Health & Social Care,Northern Meditec,£3.5M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Aeonmed,£3.3M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Aeonmed,£3.1M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Northern Meditec,£2.9M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Beijing Aeonmed Co. Ltd (3),Department of Health & Social Care,Beijing Aeonmed,£2.2M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Beijing Aeonmed Co Ltd (5),Department of Health & Social Care,Beijing Aeonmed,£2.2M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Aeonmed,£1.9M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Aeonmed,£1.8M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Beijing Siriusmed Medical Device,£1.8M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Beijing Siriusmed (1),Department of Health & Social Care,Beijing Siriusmed Medical Device,£1.8M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,Jointown Medical Devices Group,£1.6M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — JoinTown Medical Devices Group,Department of Health & Social Care,Jointown Medical Devices Group,£1.6M,Fri 25 Sep 2020
+award,Mechanical Ventilators,Department of Health & Social Care,U Safe Trading,£1.4M,Fri 25 Sep 2020
+award,Mains Electricity to Ten Group 1 October 2020 X 4 Hh Meters,City College Norwich,SSE Energy Supply,£1.2M,Fri 25 Sep 2020
+award,Oxygen and Ventilator Workstream: Ventilator Purchasing — Ambulanc (Shenzhen) Tech Ltd Co,Department of Health & Social Care,Ambulanc Shenzhen TECH,£1M,Fri 25 Sep 2020
+award,ONS Covid-19 Infection Survey Phase 2 Services,Department of Health & Social Care,Iqvia Ies,£11.1M,Fri 25 Sep 2020
+award,Seroprevalence Broader Population Survey Phase 1,Department of Health & Social Care,Iqvia Ies,£10.1M,Fri 25 Sep 2020
+award,Learning and Development Services,Caerphilly County Borough Council,2 suppliers,£5M,Fri 25 Sep 2020
+award,Youth and Young Carers Services,Torbay Council,Torbay Youth Trust,£1.1M,Fri 25 Sep 2020
+award,"Electronic Communications, Payments and Kitchen Management Systems",YPO,7 suppliers,£15M,Fri 25 Sep 2020
+award,DFE Contracted Content Design Service,Department for Education,Scroll Projects,£2.5M,Fri 25 Sep 2020
+award,Domestic Appliances Asset Availability Services for HMS Ships and Submarines,MOD,Devonport Royal Dockyard,£19.1M,Fri 25 Sep 2020
+award,De Ferrers Trust — Cleaning Services,de Ferrers Trust,Accuro FM,£4.2M,Fri 25 Sep 2020
+award,Sharnbrook Academy Federation — Cleaning Services,Sharnbrook Academy Federation,Apleona HSG,£1.8M,Fri 25 Sep 2020
+award,City of Stoke-On-Trent Sixth Form College — Catering Services,City of Stoke on Trent Sixth Form College,Mellors Catering Services,£1.2M,Fri 25 Sep 2020
+award,Shirehampton Primary School ~ Catering Services,Shirehampton Primary School,Mellors Catering Services,£1.2M,Fri 25 Sep 2020
+award,Shirehampton Primary School — Catering Services,Shirehampton Primary School,Aspens Services,£1.2M,Fri 25 Sep 2020
+award,Manufacture and Supply Agreement for the Class 720 Fleet,Abellio East Anglia,Bombardier Transportation,£888M,Fri 25 Sep 2020
+award,"Parking, Traffic Enforcement and Ancillary Services",London Borough of Enfield,Marston Holdings,£20.1M,Fri 25 Sep 2020
+award,Notice of Award of Mid Fife School Bus Services — DPS Ref,Fife Council,Stagecoach East Scotland,£12.1M,Fri 25 Sep 2020
+award,Design and Build of Morpeth Leisure Centre,Northumberland County Council,Willmott Dixon Construction,£18.6M,Fri 25 Sep 2020
+award,Roof Renewal Project at NOC Southampton,UK Shared Business Services,Brymor Construction,£7.4M,Fri 25 Sep 2020
+award,Southside Housing Association — Reactive and Void Repairs Services,Reid Associates,City Building Contracts LLP Rsbi,£1.5M,Fri 25 Sep 2020
+award,Carriageway Microasphalt for 2021 Mini Competition,Devon County Council,Kiely Bros,£1.5M,Fri 25 Sep 2020
+award,Multi-Supplier for Ground Investigation Works,Transport Scotland,Raeburn Drilling & Geotechnical,£50M,Fri 25 Sep 2020
+award,"Water, Wastewater and Ancillary Services (West Yorkshire Police)",South Yorkshire Police Headquarters,Castle Water,£1.6M,Fri 25 Sep 2020
+award,Support to the Development of the Joint Biosecurity Centre (JBC),Department of Health & Social Care,Ernst & Young,£1.8M,Fri 25 Sep 2020
+award,WSCC DR Asset Valuations and Associated Services (July 2020 Re-Tender),West Sussex County Council,Bruton Knowles,£1.1M,Fri 25 Sep 2020
+award,Prisoner and Non-Prisoner Fresh Bread and Morning Goods,Ministry of Justice,Hovis,£6.4M,Fri 25 Sep 2020
+award,Fire Safety Systems Servicing and Maintenance,Optivo,Fire Systems,£10M,Fri 25 Sep 2020
+award,In-Service Support for the Ground Based Air Defence Battlefield Information System Application (GBAD BISA),Defence Equipment & Support,BAE Systems Operations,£2.7M,Sat 26 Sep 2020
+award,Hertfordshire County Council & TPPL Vehicle Hire Framework,Hertfordshire County Council,23 suppliers,£250M,Sat 26 Sep 2020
+award,Hertfordshire County Council & TPPL Vehicle Hire Framework,Hertfordshire County Council,23 suppliers,£250M,Sat 26 Sep 2020
+award,Helium Liquefier,Leeds University,Vorbuchner,£1M,Sun 27 Sep 2020
+award,Construction Spares,MOD DSG Defence Support Group,2 suppliers,£7.7M,Sun 27 Sep 2020
+award,"Advanced Energy, Laparoscopic Devices, Surgical Stapling and Associated Accessories",Coventry & Warwickshire NHS Trust UHCW University Hospitals,Applied Medical,£15M,Mon 28 Sep 2020
+award,"Pulp, Medical Products",NHS Wales Shared Services Partnership Procurement Services,2 suppliers,£4.6M,Mon 28 Sep 2020
+award,Halton Domestic Abuse Service,Halton Borough Council,Whag,£2.1M,Mon 28 Sep 2020
+award,Voluntary Services Support to Covid-19,NHS England,British Red Cross,£1.7M,Mon 28 Sep 2020
+award,Voluntary Services Support to Covid-19,NHS England,Age,£1.5M,Mon 28 Sep 2020
+award,Speciality Needles and Syringes,NHS Wales Shared Services Partnership,5 suppliers,£1.1M,Mon 28 Sep 2020
+award,Fire Safety Systems Servicing and Maintenance,Optivo,Fire Systems,£10M,Mon 28 Sep 2020
+award,London (North) Gas Servicing and Boiler Installation,Optivo,K & T Heating Services,£7.5M,Mon 28 Sep 2020
+award,London (South) Gas Servicing and Boiler Installation,Optivo,Swale Heating,£7.5M,Mon 28 Sep 2020
+award,In-Service Support for the Ground Based Air Defence Battlefield Information System Application (GBAD BISA),Defence Equipment & Support,BAE Systems Operations,£2.7M,Mon 28 Sep 2020
+award,"CCTV System Upgrade, Operation and Maintenance",Royal Borough of Greenwich,Eurovia Infrastructure,£2.7M,Mon 28 Sep 2020
+award,EPAC Laser Diode Pump System for 150 J Amplifier,UK Research & Innovation,Coherent Europe,£1.4M,Mon 28 Sep 2020
+award,Cold Storage Framework,University College London,Fisher Scientific,£1M,Mon 28 Sep 2020
+award,"Information, Advice and Support for CYP and Parents (IAS)",Department for Education,National Childrens Bureau,£6.5M,Mon 28 Sep 2020
+award,Cross Rail Joint Sponsor Project Rep,Department for Transport,Jacobs,£6M,Mon 28 Sep 2020
+award,Delivery Support (SEND: Targeted),Department for Education,Mott Macdonald,£2.4M,Mon 28 Sep 2020
+award,Whole School SEND Notice,Department for Education,Nasen,£1.8M,Mon 28 Sep 2020
+award,Children and Young People Strategic Participation,Department for Education,Contact,£1.6M,Mon 28 Sep 2020
+award,Flexible Hosting Environment for Digital Products,Government Digital Service,Amazon Web Services Emea Sarl UK Branch,£6.6M,Mon 28 Sep 2020
+award,Design Solution for Enterprise Class Wired and Wireless Infrastru,Government Property Agency Cabinet Office,Stone Computers,£1.9M,Mon 28 Sep 2020
+award,DevOps Platform Support to the Development,MOD,Accenture,£1.2M,Mon 28 Sep 2020
+award,DfE BT Wi-Fi Vouchers,Department for Education,British Telecommunications,£1M,Mon 28 Sep 2020
+award,"Sub-Lot 1C Facilities Management Services, Magnox Ltd",Crown Commercial Service,MITIE,£106M,Mon 28 Sep 2020
+award,Hertfordshire County Council and TPPL Vehicle Hire Framework,Hertfordshire County Council,4 suppliers,£250M,Mon 28 Sep 2020
+award,Office Moves,Network Rail Infrastructure,Harrow Green,£3.7M,Mon 28 Sep 2020
+award,Area 4 Asset Delivery Maintenance and Response (M&R,Highways England,Kier Highways,£159M,Mon 28 Sep 2020
+award,Claims Handling and Litigation Services,Network Rail Infrastructure,Beachcroft,£6M,Mon 28 Sep 2020
+award,Food and Drink Products to Greenshaw and Folio Trusts,Pelican Procurement Services,7 suppliers,£1.1M,Mon 28 Sep 2020
