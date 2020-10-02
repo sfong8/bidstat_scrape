@@ -24,7 +24,7 @@ seven_days_ago=seven_days_ago.strftime('%a %d %b %Y' )
 WebDriverWait(driver,5).until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[1]/section/div[1]/ul/li[3]"))).click()
 from selenium.webdriver.common.keys import Keys
 
-for i in range(1,10):
+for i in range(1,20):
 
     driver.execute_script("window.scrollTo(0, 0.2*document.body.scrollHeight);")
 

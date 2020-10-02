@@ -30,6 +30,6 @@ master_df.columns=['Name','Address','Ref type','Ref Number','Is SME','Is VCSE','
 master_df['Name']=master_df['Name'].apply(lambda x:x[1:])
 master_df['Is VCSE']=master_df['Is VCSE'].apply(lambda x:x[:-1])
 
- = df.merge(master_df,how='left',left_on=df.index,right_on=['index'])
+df2 = df.merge(master_df,how='left',left_on=df.index,right_on=['index'])
 
 df3=df2[['Organisation Name','Title', 'Description','Awarded Date', 'Awarded Value','Name', 'Address', 'Ref type', 'Ref Number']]
