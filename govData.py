@@ -22,7 +22,7 @@ for index, row in df.iterrows():
     x=clean_name(x)
     x3= x.replace('][',']\n[')
     x1=StringIO(x3)
-    x2=pd.read_csv(x1,delimiter='|',header=None)
+    x2=pd.read_csv(x1,delimiter='|',header=None,names=['Name','Address','Ref type','Ref Number','Is SME','Is VCSE','index'])
     x2['index']=index
     master_df=pd.concat([master_df,x2])
 
