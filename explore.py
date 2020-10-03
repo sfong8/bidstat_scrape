@@ -62,3 +62,12 @@ GOV_feb14=GOV_feb14.sort_values(['Organisation Name','NUM_SUPPLIERS'])
 
 ##unique company house id
 company_house = df3[['Ref type','Ref Number']].drop_duplicates()
+
+def getPostcode(x2):
+    y=re.findall(r'[A-Z]{1,2}[0-9R][0-9A-Z]? [0-9][A-Z]{2}', str(x2))
+    if y==[]:
+        return ''
+    else:
+        return y[0]
+
+df3['POSTCODE']=df3['Address'].apply(lambda x: getPostcode(x))
