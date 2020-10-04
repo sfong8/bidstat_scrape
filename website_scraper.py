@@ -5,7 +5,9 @@ from datetime import datetime
 from selenium import webdriver
 
 def scapePage(url):
-    driver = webdriver.Chrome(r'D:\Chrome Download\chromedriver_win32\chromedriver')
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument("headless")
+    driver = webdriver.Chrome(r'D:\Chrome Download\chromedriver_win32\chromedriver',   chrome_options=chrome_options)
     driver.get(url)
     sector = driver.find_element_by_xpath("/html/body/div/article/section[1]/div[2]/dl/dd[1]/a").text
     source = driver.find_element_by_xpath("/html/body/div/article/section[1]/div[1]/dl/dd[1]").text

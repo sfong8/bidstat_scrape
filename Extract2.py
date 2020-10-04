@@ -5,6 +5,8 @@ import pandas as pd
 from datetime import datetime
 import time
 
+from selenium.webdriver.chrome.options import Options
+
 url = r'http://bidstats.uk/tenders/?ntype=award&value=high'
 
 
@@ -13,7 +15,9 @@ from pandas.io.html import read_html
 from selenium import webdriver
 import time
 from selenium.webdriver.support.ui import WebDriverWait
-driver = webdriver.Chrome(r'D:\Chrome Download\chromedriver_win32\chromedriver')
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument("headless")
+driver = webdriver.Chrome(r'D:\Chrome Download\chromedriver_win32\chromedriver',   chrome_options=chrome_options)
 driver.get(url)
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -29,12 +33,12 @@ master_df = pd.DataFrame()
 track_refs=[]
 total_height = 10*int(driver.execute_script("return document.body.scrollHeight"))
 from tqdm import tqdm
-for i in range(1, total_height, 150):
+for i in range(1, total_height, 300):
     if driver.execute_script("return document.body.scrollHeight")==0:
         break
     else:
         driver.execute_script("window.scrollTo(0, {});".format(i))
-        time.sleep(5)
+        #time.sleep(5)
         #driver.execute_script("window.scrollTo(0, 0.5*document.body.scrollHeight);")
         elements = driver.find_elements_by_xpath("//table[@class = 'nl-table']//td[2]/a")
         for element in tqdm(elements):
