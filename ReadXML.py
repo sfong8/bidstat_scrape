@@ -100,5 +100,7 @@ for month_folder in os.listdir(r'C:\Users\S\PycharmProjects\bidstat_scrape\bidst
             f.close()
 #364133_2020
 
-
-
+from datetime import datetime
+date=datetime.now()
+date_str = date.strftime('%Y_%m_%d')
+all_contracts.to_csv(fr'ojeu_{date_str}.csv',index=None)
