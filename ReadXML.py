@@ -75,6 +75,7 @@ for month_folder in os.listdir(r'C:\Users\S\PycharmProjects\bidstat_scrape\bidst
                 contract_title = contract_info.find('title').find('p').contents[0]
                 contract_desc = contract_info.find('short_descr').find('p').contents[0]
                 url = y.find('uri_list').find('uri_doc').contents[0]
+                contract_pub_date = y.find('date_pub').contents[0]
                 ##awarded supplier
                 awarded_contact = y.findAll('award_contract')
 
@@ -88,6 +89,8 @@ for month_folder in os.listdir(r'C:\Users\S\PycharmProjects\bidstat_scrape\bidst
                 contract_df['CONTRACT_BUYER'] = organisation_name
                 contract_df['CONTRACT_BUYER_POSTCODE'] = organisation_pc
                 contract_df['CONTRACT_TITLE'] = contract_title
+
+                contract_df['CONTRACT_DATE'] = contract_pub_date
                 contract_df['CONTRACT_DESC'] = contract_desc
                 contract_df['CONTRACT_URL'] = url
                 contract_df['CONTRACT_VALUE'] = value
@@ -96,8 +99,6 @@ for month_folder in os.listdir(r'C:\Users\S\PycharmProjects\bidstat_scrape\bidst
                 del value
             f.close()
 #364133_2020
-file=r'364116_2020.xml'
-with open(fr'C:\Users\S\PycharmProjects\bidstat_scrape\bidstat_scrape\Data\2020-08\20200803_148\{file}',encoding="utf-8") as f:
-    x= f.read()
+
 
 
