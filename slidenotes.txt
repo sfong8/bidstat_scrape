@@ -1,0 +1,102 @@
+Introduce myself
+Hi All, I’m Simon and I work in the corporate data science team under Mark.
+
+What I will do?
+In this presentation I will first give a quick background of the analytics assisted lead generation project. 
+I will then take you through the experiments I’ve been working on over the last few weeks.
+Next, I will talk about the data sources I’ve used for this project including the external data sources
+Finally, I will give a quick preview of the dashboard I’ve created to surface these insights to business stakeholder
+Background 
+This project aims to create a variety of data driven insights focusing on identifying new product opportunities which will be surfaced to RDs and product partners
+I’ve been working with Mark Henderson from TWC for the last few weeks on building experiments which i will go through next.
+For these experiments I mainly used Barclays clients transactions with counterparty information to identify new product opportunities.
+Barclays Client transaction 
+So i will quickly go through this data source
+For Barclays client's transaction, ive extracted it from the following payment systems in BIW1 - BACS, FPS, High Value GPP, Masspay
+A data issue i found was that for BACs and FPS, if the counterparty is barclaycard then we cannot identify counterparty details. I was wondering if anyone know how to get more information on these transaction?
+ANY QUESTIONS??
+SRF
+The first experiment is the selective receivable finance, this is where we want to identify Barclays clients who are suppliers to low risk organisations such as local government or financially strong companies. 
+Value:
+The benefits of this is improved cashflow for  Barclays clients as they will receive payment much earlier and they will get cheaper funding compared to other product such as revolving credit
+We will also benefit from a reduced Risk Weighted Asset as the SRF was a better risk rating a to other products
+Requirements (FAST):
+The conditions for this experiment is as follows:
+Want to identify Barclays client receiving more than £5million per year from public sector bodies
+The Barclays client must have a turnover of greater than 20m
+Opportunity:
+In terms of opportunity size
+Running this across the book and using 12months of transactions
+We have identified 325 opportunities across 153 Barclays clients
+Representing 500m of monthly inward transactions
+If we were to take a conservative estimate of say 1 in 20 will take up this opportunity then this would equate to 25million of new selective receivable finance business per month which seems promising
+Data source:
+I’ll go through the additional datasources I’ve used on top of the Barclays client transactions
+Firstly, I used the KYC detail on customer database in BIW1 to get the Barclays clients turnover, an issue with this is that some of the entries was last updated over 12moinths ago, is there another data source to get the most recent clients turnover??
+
+I’ve used BIW1 GCA to identify if a client already has a SRF product by summing up the product income, I was wondering if there is a better data source for this. 
+In the future i will use Dun and Bradstreet to identify financially strong companies, as we expand this experiment. Dun and Bradstreet has information on over  companies worldwide
+
+Next Steps:
+Want to refine the opportunities in conjunction with business stakeholders 
+Expand this experiment to include financially strong companies and barclients client recently awarded a public sector procurement contract
+ANY QUESTION
+Tier 1 UK Export Finance
+For the Tier 1 UK Export experiment we want to identify Barclays clients who are suppliers to major UK exporters. 
+Value:
+The UK Government guarentiees a significant proportion of any trade finance to suppliers of major uk exporters.
+This means that we are able to offer a higher level of finance to those Barclays clients with lower risk  - thus improving return on rwa. 
+Requirement:
+The conditions for this expierment is identifying barclays clients where they receive more than 1mil per year from major UK exporters which we define as having an export turnover greater than 250m . 
+Opportunity:
+Running this across the book with last 12 months of transaction, we identified 458 clients satisfying these requirements, 
+representing 480m monthly transactions and 
+if we were again to take a conservative estimate of 5% then this would equal to 24m new uk export finance business per month.
+Data source:
+I’ve used Dunn and Bradstreet to identify a list of major UK exporters
+It would also be good to know if there is any way to identify if a client already has this project so just we flagging these up.
+Next Steps:
+Next step for this experiment is to refine the opportunities in conjunction with the business stakeholders. 
+ANY QUESTION
+SCF
+The Supply chain finance experiment Is the next one I will be looking to work on
+In this experiment we want to focus on Barclays client whom we have a large credit appetite on and focus on their suppliers who might be suitable for supply chain finance. 
+The Barclay client will benefit from increased cash flow as they will have an extended payment schedule
+There is also value for the Barclays Client’s supplier as they will receive their payment earlier, increasing their cashflow without their debt
+The first step is to focus on Small to medium companies first (with less than 10m cash on balance sheet). whom are less well rated as they will more likely to take up supply chain finance
+For the data source, I will again use Dun and Bradstreet to identify below average rated SME suppliers. 
+ANY QUESTION before i move onto external data source section
+
+External Data source
+In this section I will go through some of the external data sources I used for these experiments and future experiments. 
+D&B:
+Firstly Dun and Bradstreet has a database containing over 330m companies worldwide including their financial information. 
+We can access D&B through the desktop app that allows us to search and create dataset of companies, and we can extract this out to csv but this works in a credit system where one company record is 1 credit. We might run into problems if we want to extract out a large number of records say 1m+
+As we saw from the experiments, Dun and Bradstreet is fundamental to identify companies that satisfies the requirements. So i think its important we continue having access to this data and build relationship with D&B
+I think this data will also be useful if we can ingest it into our system to enrich Barclays clients data, having up to date financial information such as turnover or credit rating. 
+If we can ingest this into our system then this will be very helpful to better target our clients for product opportunities 
+UK Procurement Contracts:
+Next is the Awarded UK public sector procurement contracts which will be used to expand the SRF experiment, if we can identify a Barclays client has recently won a public sector contract then they are a good candidate for SRF as contract buyer is in public sector.
+Which is published online and publicly available. 
+There could be other product opportunities, if we know a client was recently awarded a contract then we can proactively reach out to offer help and support.
+HMRC Import/Export DATA:
+Lastly is the UK export/import data which will be used for a new experiment looking to identify new markets for clients. 
+This data source is publicly available and it contains information on value of imports/exports from UK per commodity code. We can also see what commodities a UK company import/export. 
+With this data, we can identify new markets for clients, for example if a client exports commodity A to China but not to Thailand who are the next biggest importer to commodity B then we can use that information to initiate conversation with client about getting into that market. 
+
+Is there any questions on the external datasources before i move onto the last section?
+Tableau Dashboard
+Finally I will show you a quick preview of the Tableau dashboard I’ve been working on for this project. From working with Mark Henderson, it was  found that able to see their clients transactions especially who they are paying or recieving payments from was useful in getting insights into their client. 
+Therefore I wanted to create a dashboard that will allow RDs or product partners to analyse their client’s transactions easily and filter transactions easily. 
+I've created a dashboard for Mark Henderson where he can see 12months of transactions for his clients only. 
+The insights from the previous experiments can be surfaced on the dashboard. 
+For example the first two experiments is highlighted in red, if the user were to filter by these then it will show their clients name and the transactions, able to see if it was regular payments or one off. 
+This dashboard is still on the early stages and i will work with business stakeholder to develop the dashboard to meet their needs
+
+Recap
+Recapping what I talked about
+We went through a couple of experiments I’ve been working on and the Selective receivable finance and UK export finance experiment both looks very promising with around 25m new business per month for each one. 
+The next steps is to continue working on the experiments, refining the opportunities with business stakeholders
+We can also saw the importance of utilising external data especially Dun and Bradstreet identify companies satisfying the experiement details. 
+I think its important to we continue to have access to dun and bradstreet and build a relationship with them. 
+Finally, I gave a quick preview of the insight dashboard which is still at the early stages, i want to continue developing this to support RDs and product partners. 
